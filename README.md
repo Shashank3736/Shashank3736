@@ -5,7 +5,7 @@
     <img align ="left" alt="Kira2" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
 
-![](https://visitors-badge.glitch.me/badge?page_id=deltacoderr.deltacoderr)
+![](https://visitors-badge.glitch.me/badge?page_id=ShreyashKira.ShreyashKira)
 
 <br/>
 
