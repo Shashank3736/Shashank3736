@@ -1,12 +1,9 @@
-### Hi there 👋, I'm Shreyash Raj a normie coder
+### Hey I'm Shreyash Raj (a depressed coder)
 
 <br/>
 <a href="https://discord.gg/XwxgA7">
     <img align ="left" alt="Kira2" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
-
-![](https://visitors-badge.glitch.me/badge?page_id=ShreyashKira.ShreyashKira)
-
 <br/>
 
 
@@ -19,4 +16,8 @@
 - ⚡ Fun fact: **I love making discord bots**
 -->
 
-![ShreyashKira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyashKira&show_icons=true&hide_border=true)
+![ShreyashKira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyashKira&show_icons=true&hide_border=true&theme=radial&hide=stars&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashKira&layout=compact)](https://github.com/ShreyashKira)
+
+### Credits
+All credits for the profile goes to [anuraghazra](https://github.com/anuraghazra) and his repo [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
