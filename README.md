@@ -20,8 +20,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank3736&layout=compact)](https://github.com/Shashank3736)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank3736&repo=parse-ms)](https://github.com/Shashank3736/parse-ms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank3736&repo=captcha-canvas)](https://github.com/Shashank3736/captcha-canvas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank3736&repo=parse-ms&show_owner=true)](https://github.com/Shashank3736/parse-ms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank3736&repo=captcha-canvas&show_owner=true)](https://github.com/Shashank3736/captcha-canvas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank3736&repo=quickmongo&show_owner=true)](https://github.com/Shashank3736/quickmongo)
 
 ### Credits
 All credits for the profile end points goes to [anuraghazra](https://github.com/anuraghazra) and his repo [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
