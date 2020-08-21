@@ -16,7 +16,7 @@
 - ⚡ Fun fact: **I love making discord bots**
 -->
 
-[![ShreyashKira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyashKira&show_icons=true&hide_border=true&theme=radial&hide=stars&include_all_commits=true&count_private=true)]()
+[![ShreyashKira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyashKira&show_icons=true&hide_border=true&theme=dark&hide=stars&include_all_commits=true&count_private=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashKira&layout=compact)](https://github.com/ShreyashKira)
 
