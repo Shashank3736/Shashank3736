@@ -1,4 +1,4 @@
-### Hey I'm Shreyash Raj (a depressed coder)
+### Hey I'm Shashank (a depressed coder)
 
 <br/>
 <a href="https://discord.gg/XwxgA7">
@@ -9,19 +9,19 @@
 
 ### Information
 
-- 🔭 I’m currently working on [**discord projects**](https://github.com/users/ShreyashKira/projects/2).
+- 🔭 I’m currently working on [**discord projects**](https://github.com/users/Shashank3736/projects/2).
 - 🌱 I’m currently learning **web development**.
 - 👯 I’m looking to collaborate on **open source projects (specially related to discord)**.
 - 📫 How to reach me: Come on join my [**discord server**](https://discord.gg/XwxgA7) and drop a ping there.
 - ⚡ Fun fact: **I love making discord bots**
 -->
 
-[![ShreyashKira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyashKira&show_icons=true&hide_border=true&theme=dark&hide=stars&include_all_commits=true&count_private=true)]()
+[![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashank3736&show_icons=true&hide_border=true&theme=dark&hide=stars&include_all_commits=true&count_private=true)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashKira&layout=compact)](https://github.com/ShreyashKira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank3736&layout=compact)](https://github.com/Shashank3736)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyashKira&repo=parse-ms)](https://github.com/ShreyashKira/parse-ms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShreyashKira&repo=captcha-canvas)](https://github.com/ShreyashKira/captcha-canvas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank3736&repo=parse-ms)](https://github.com/Shashank3736/parse-ms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank3736&repo=captcha-canvas)](https://github.com/Shashank3736/captcha-canvas)
 
 ### Credits
-All credits for the profile goes to [anuraghazra](https://github.com/anuraghazra) and his repo [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+All credits for the profile end points goes to [anuraghazra](https://github.com/anuraghazra) and his repo [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
