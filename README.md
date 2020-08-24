@@ -29,5 +29,6 @@
 
 ### Working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank3736&repo=discord-captcha&show_owner=true)](https://github.com/Shashank3736/discord-captcha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank3736&repo=pokename&show_owner=true)](https://github.com/Shashank3736/pokename)
 ### Credits
 All credits for the profile end points goes to [anuraghazra](https://github.com/anuraghazra) and his repo [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
