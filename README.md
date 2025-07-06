@@ -1,46 +1,63 @@
-# Hi there, I'm Shreyash Raj 👋
+<!-- Profile README for Shreyash3736 -->
 
-I'm a passionate developer with a strong drive for innovation and a love for open-source. I enjoy building creative solutions and sharing my work with the community.
+<h1 align="center">Hi there, I'm Shreyash Raj 👋</h1>
 
-## 👨‍💻 About Me
+<p align="center">
+  <b>Software Engineer at Accenture</b><br>
+  <i>Passionate about building scalable, innovative web applications.</i>
+</p>
 
-I specialize in building smart, scalable applications and love exploring new technologies. I'm constantly up for a challenging project to further refine my skills.  
-Check out my [resume](Shreyash_Raj_Resume.pdf) to get a deeper insight into my experience and expertise.
+---
 
-## 🚀 Projects
+### 🚀 About Me
 
-Here are a few projects I’m excited about:
+- 💼 Software Engineer @ Accenture
+- 🌐 Full Stack Web Developer
+- 💻 Main stack: <b>Python</b>, <b>Node.js</b>, <b>React</b>
+- 👨‍💻 I love turning ideas into reality through code and collaboration.
 
-- **[Quaslation](https://github.com/Shashank3736/quaslation)**  
-  A unique project that showcases my skills in innovative application design.
+---
 
-- **[Captcha Canvas](https://github.com/Shashank3736/captcha-canvas)**  
-  A dynamic tool for generating customizable CAPTCHA images, demonstrating my capability in handling complex functionalities.
+### 🌟 Featured Projects
 
-## 🌱 Currently Learning
+- [quaslation](https://github.com/Shashank3736/quaslation): A translation project leveraging modern tech.
+- [captcha-canvas](https://github.com/Shashank3736/captcha-canvas): Customizable captcha generator for web apps.
 
-I'm always looking to learn new technologies and improve my development skills. Whether it's refining backend services or experimenting with novel front-end frameworks, I'm all in for a good challenge.
+---
 
-## 📫 Let's Connect
+### 📫 Connect With Me
 
-I’m always excited to collaborate on interesting projects or just have a conversation about technology. Feel free to reach out or check out my work on GitHub:
+- 🌐 Portfolio: [shreyashraj.com](https://www.shreyashraj.com/)
+- 💼 LinkedIn: [Shreyash Raj](https://www.linkedin.com/in/shreyash-raj-994b92249/)
 
-- [GitHub Profile](https://github.com/Shashank3736)
-- [LinkedIn](https://www.linkedin.com/in/shreyash-raj-994b92249/)
+---
 
-Thanks for stopping by!
+### 🛠️ Languages & Tools
 
-<!--
-**Shashank3736/Shashank3736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashank3736&show_icons=true&theme=radical" alt="Shreyash's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank3736&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank3736&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ Fun Fact
+
+When I’m not coding, you’ll find me exploring new tech trends, reading, or playing chess!
+
+---
+
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
+</p>
