@@ -3,7 +3,6 @@
 <h1 align="center">Hi there, I'm Shreyash Raj 👋</h1>
 
 <p align="center">
-  <b>Software Engineer at Accenture</b><br>
   <i>Passionate about building scalable, innovative web applications.</i>
 </p>
 
