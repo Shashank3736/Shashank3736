@@ -10,7 +10,6 @@
 
 ### 🚀 About Me
 
-- 💼 Software Engineer @ Accenture
 - 🌐 Full Stack Web Developer
 - 💻 Main stack: <b>Python</b>, <b>Node.js</b>, <b>React</b>
 - 👨‍💻 I love turning ideas into reality through code and collaboration.
