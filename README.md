@@ -1,61 +1,37 @@
-<!-- Profile README for Shreyash3736 -->
+# Hi, I'm Shreyash 👋  
 
-<h1 align="center">Hi there, I'm Shreyash Raj 👋</h1>
+**Full-stack TypeScript Developer | OSS Maintainer | Building developer-friendly tools**  
 
-<p align="center">
-  <i>Passionate about building scalable, innovative web applications.</i>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🌐 Full Stack Web Developer
-- 💻 Main stack: <b>Python</b>, <b>Node.js</b>, <b>React</b>
-- 👨‍💻 I love turning ideas into reality through code and collaboration.
+- 💻 Experienced with **Next.js (App Router)**, **React 19**, **DrizzleORM**, **Postgres**, **TailwindCSS**  
+- 🚀 Maintainer of [`captcha-canvas`](https://github.com/Shashank3736/captcha-canvas) — serving **1000+ weekly npm downloads**  
+- 🌐 Creator of [`quaslation`](https://github.com/Shashank3736/quaslation) — translation platform built with **Next.js 15 + Drizzle** (633+ commits)  
+- 📈 My projects attract **60K+ monthly visitors** and **200K+ total npm downloads**  
+- 🎯 Open to **Full-stack / Backend / Frontend roles** (TypeScript, Node.js, React, Next.js, PostgreSQL)  
 
 ---
 
-### 🌟 Featured Projects
+## 🔗 Featured Projects  
 
-- [quaslation](https://github.com/Shashank3736/quaslation): A translation project leveraging modern tech.
-- [captcha-canvas](https://github.com/Shashank3736/captcha-canvas): Customizable captcha generator for web apps.
-
----
-
-### 📫 Connect With Me
-
-- 🌐 Portfolio: [shreyashraj.com](https://www.shreyashraj.com/)
-- 💼 LinkedIn: [Shreyash Raj](https://www.linkedin.com/in/shreyash-raj-994b92249/)
+### 📦 [captcha-canvas](https://github.com/Shashank3736/captcha-canvas)  
+Generate customizable CAPTCHA images for Node.js.  
+- **1000+ weekly downloads on npm**  
+- Examples & docs at [captcha-canvas.js.org](https://captcha-canvas.js.org)  
+- Used in production by multiple projects  
 
 ---
 
-### 🛠️ Languages & Tools
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank3736&show_icons=true&theme=radical" alt="Shreyash's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank3736&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank3736&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🌍 [quaslation](https://github.com/Shashank3736/quaslation)  
+A modern translation management tool.  
+- Built with **Next.js 15 App Router, React 19, DrizzleORM, Vercel Postgres**  
+- Full CI/CD pipeline with GitHub Actions  
+- 633+ commits and actively maintained  
 
 ---
 
-### ✨ Fun Fact
-
-When I’m not coding, you’ll find me exploring new tech trends, reading, or playing chess!
+## 📫 Let’s Connect  
+- Portfolio: [shreyashraj.com](https://shreyashraj.com)
+- Email: **shreyashr267@gmail.com**  
 
 ---
 
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
-</p>
+⭐️ Always open to collaboration on **open-source** or **full-stack projects**.  
